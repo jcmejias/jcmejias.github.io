@@ -3710,8 +3710,8 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		border-top: 0;
-		min-height: 100vh;
-		height: 100vh !important;
+		min-height: 50vh;
+		height: 50vh !important;
 		position: relative;
 		text-align: center;
 		overflow: hidden;
